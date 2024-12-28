@@ -77,8 +77,10 @@
 ---
 
 ## Kontributor
-- **Nama**: [Nama Anda]
-- **Email**: [Email Anda]
+- **Nama**: - Ahmad Zaky Guntur
+            - Meutia Rahmadhani B
+- **Email**: - ahmadzaqy99@gmail.com
+             - meutiarahmadhani225@gmail.com
 
 Terima kasih telah menggunakan **Kasir Buku App**! Jika Anda memiliki masukan atau saran, silakan hubungi kami.
 
